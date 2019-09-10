@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Descarga PDF</string>
+    <string name="admob_app_id">ca-app-pub-7798326984570596~6072445994</string>
+    <string name="banner_id">ca-app-pub-7798326984570596/4072134468</string>
+    <string name="interstitial_id">ca-app-pub-7798326984570596/8371306274</string>
+    <string name="link">Intoduce el link/url del PDF que quieres descargar</string>
+    <string name="prueba">prueba</string>
+</resources>
